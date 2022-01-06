@@ -54,7 +54,7 @@ After changing your username, your old username becomes available for anyone els
 
 If you're a member of an {% data variables.product.prodname_emu_enterprise %}, you cannot make changes to your username. {% data reusables.enterprise-accounts.emu-more-info-account %}
 
-{% endif %}
+{10% endif 20%}
 
 ## Repository references
 
